@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hafiz Abdul Munim 👋</h1>
-<h3 align="center">Full Stack Developer · GDG Kolachi Co-organizer · AI Tools Enthusiast</h3>
+<h3 align="center">Full Stack Developer · GDG Kolachi Co-organizer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hafiz-abdul-munim-5285281ab/" target="_blank">
@@ -27,7 +27,6 @@ Beyond coding, I'm the **Co-organizer of GDG Kolachi** — Google's official dev
 - 🔭 Currently working at **7nsoft Systems (Mlogica)** as a Frontend Developer
 - 🌱 Exploring **AI-assisted development**, Agentic AI, and full-stack architecture
 - 🎤 Workshop speaker on **Vibe Coding** and **Google Agentic AI**
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2c41594245415b435e47151c6c4b414d4540024f4341">[email&#160;protected]</a>**
 - 📍 Based in **Karachi, Pakistan**
 
 ---
@@ -126,12 +125,8 @@ I help organize Karachi's official Google Developer Group, building a thriving t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulMunim343&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMunim343&theme=default&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMunim343&layout=compact&theme=default&hide_border=true&langs_count=8" width="50%" />
-</p>
 
 ---
 
