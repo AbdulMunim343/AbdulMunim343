@@ -104,7 +104,7 @@ Beyond coding, I'm the **Co-organizer of GDG Kolachi** — Google's official dev
 
 ## 🤝 Volunteer & Community
 
-<img align="right" width="120" src="https://developers.google.com/community/gdg/images/logo-lockup-gdg-horizontal.png" alt="GDG Logo" />
+<img align="right" width="120" src="https://gdgkolachi.com/img/logo.0229df09.png" alt="GDG Logo" />
 
 ### 🌐 Google Developer Group (GDG) Kolachi — Co-organizer *(2025 – Present)*
 
@@ -125,6 +125,7 @@ I help organize Karachi's official Google Developer Group, building a thriving t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulMunim343&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMunim343&theme=default&hide_border=true" width="48%" />
 </p>
 
 
